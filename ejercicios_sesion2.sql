@@ -94,3 +94,5 @@ EJERCICIO 5
   usando la tabla listings y calendar, donde el campo minimum_nights es el que 
   indica la estancia mínima por reserva, se debe de filtrar por el campo available
 */  
+
+
