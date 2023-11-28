@@ -1,1 +1,3 @@
 # courses
+
+Ejericios Curso BigQuery
